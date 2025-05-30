@@ -1,0 +1,8 @@
+Algoritmo sin_titulo
+	Escribir "da el primer numero"
+	leer num1
+	escribir "da el segundo numero"
+	leer num2
+	suma=num1+num2
+	Escribir suma
+FinAlgoritmo
