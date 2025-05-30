@@ -1,0 +1,7 @@
+class Suma:
+    def __init__(self):
+        self.n1=int(input("Igrese el primer numero:"))
+        self.n2=int(input("Ingrese el segundo numero:"))
+        self.suma = self.n1 + self.n2
+        print("El resultado de la suma es: ", self.suma)
+s=Suma()
