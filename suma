@@ -1,0 +1,8 @@
+print ("ingresa el primer numero")
+n1=input()
+print ("ingresa el segundo numero")
+n2=input()
+n1=int(n1)
+n2=int(n2)
+suma=n1+n2
+print ("la suma es :", suma)
